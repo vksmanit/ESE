@@ -1,0 +1,484 @@
+--------------------------------------------------------
+------------------------ NETWORK -----------------------
+--------------------------------------------------------
+
+$ Some reciprocal and superposition theorem (combinational).
+$ Some good question of Thevenin's and Norton's theorem.
+$ Dual of Network (TODO)
+$ RC/RL network construction. 
+$ Question of reciprocity theorem  
+$ For High Q, Quartz crystal series resonance freq \omega_s is very close to but less than parallel resonance freq \omega_p 
+
+
+
+GOOD QUESIONS COLLECTION 
+$ network_analysis.pdf -> 47/71
+$ Que No. 52
+$ Que No. 72
+$ Que No. 102  
+$ Que No. 111
+$ 
+----------------- ESE book -----------------------------
+Que 1.7
+Que 1.49
+Que 1.51
+Que 1.54
+-- network theorem
+Que 2.4
+Que 2.27
+Que 2.42
+Que 2.43
+-- sinusoidal and resonance resp 
+Que 3.6
+Que 3.12 - Power factor at resonance is unity -- angle is zero (so many times in ESE)
+Que 3.16
+Que 3.17 - Imp concept of current through inductor and capacitor
+Que 3.18 - Very imp concept 
+Que 3.37
+Que 3.38 - Good Question of DC blocking applicaiton of cap 
+Que 3.42 - Good Question of Power factor - ESE important
+Que 3.48
+-- transient analysis
+Que 4.1
+Que 4.9
+Que 4.13 - Good Concept of RC time constant
+Que 4.21
+Que 4.33
+-- Two port
+Que 5.8
+Que 5.9
+Que 5.10 - simple transconductance is only Y21
+Que 5.15 - transmission parameter of cascading line - Application pt of view : VIMP ESE 
+Que 5.25 
+Que 5.33 
+Que 5.37 
+-- Graph and Magnetic ckts
+Que 6.5 - Good Concept of Transformer and Self and Mutual induction and Coupling factor 
+Que 6.13 
+Que 6.20  - No. of trees = n^(n-2)
+
+
+
+
+--------------------------------------------------------
+--------------------- CONTROL SYSTEM -------------------
+--------------------------------------------------------
+IESPaper1 -> 
+GOOD QUESTION COLLECTION 
+$ Que No. 6.16
+$ Que No. 6.31
+$ Que No. 6.37
+$ Que No. 6.69
+$ Que No. 6.78 - why we use CLTF for RH and OLTF for Nyquist. 
+
+IES book 
+-------------- FRA ---------------
+Que. 7.10
+Que. 7.11
+Que. 7.14 - always take care for GM and Gain @wpc. 
+Que. 7.03 - for M=1 constant M circle is straight line x = -0.5 and 2.25 => M = 3
+Que. 7.38 
+--------------Controller and Compensator ---------
+Que. 3.46 
+Que. 3.51 -- Go through ESE notes prepared during Diwali (IMP for ESE)
+
+
+
+--------------------------------------------------------
+------------------------- EDC --------------------------
+--------------------------------------------------------
+
+Que. 1.96 - Good Que of HALL EFFECT
+Que. 1.98 
+Que. 2.47 
+Que. 3.3 
+Que. 3.9 
+Que. 3.19 
+Que. 3.21 
+Que. 3.30 
+Que. 3.33 
+Que. 3.52 
+Que. 3.61  - Thermal runway is not possible in FETs b/z mobility decreases with increase in tempreture.
+Que. 3.62  - JFETs are less noisy than BJTs.
+
+
+
+--------------------------------------------------------
+--------------------- Signal & System ------------------
+--------------------------------------------------------
+Que 1.15
+Que 1.20
+Que 1.22 - recursive and non-recursive system
+Que 1.39 - IMP ESE - LTI concept 
+Que 1.43 - invertible and Non-Invertible system
+Que 1.44
+Que 1.59 
+Que 2.6
+Que 2.29
+Que 3.8 - when ever asked for fourier expansion means - TFS not Exponential FS -- IMP ESE 
+Que 3.11
+Que 3.12
+Que 3.13
+Que 4.11
+Que 4.12
+Que 4.13
+Que 4.17 - Cross correlation ----> x(k)<*>y(-k)
+Que 4.27
+Que 4.33
+Que 5.20
+Que 5.29
+Que 5.39 - Good Que
+Que 5.45
+Que 6.7
+Que 6.12
+Que 7.6
+Que 7.8
+Que 7.9
+Que 7.11
+Que 7.17 - IMP ESE 
+Que 7.24
+Que 7.26
+Que 7.28
+Que 7.38 - Good Ques of Laplase to Z transform 
+
+--------------------------------------------------------
+------------------------ EMT ---------------------------
+--------------------------------------------------------
+
+Que 1.18
+Que 1.31
+Que 1.32
+Que 1.44
+Que 1.48
+Que 1.58
+Que 1.60
+Que 1.62
+Que 1.65
+Que 1.71
+Que 1.76
+Que 1.80
+Que 1.98
+Que 1.104
+Que 2.8
+Que 2.9 - IMP question of phase velocity, freq, and phase shift realation 
+Que 2.18
+Que 2.22
+Que 2.23
+Que 2.27
+Que 2.30
+-- polarization and reflection 
+Que 2.32
+Que 2.34 
+Que 2.42
+Que 2.44
+Que 2.54
+Que 2.62 - ESE IMP concept of pointing vector 
+Que 2.65
+Que 2.72
+Que 3.1
+Que 3.7
+Que 3.16 - Not clear
+Que 3.24
+Que 3.27
+Que 3.40
+Que 3.42
+Que 3.45
+Que 3.46
+Que 3.53
+Que 3.56 - characteristics of Distortion less line
+Que 3.65
+Que 4.1
+Que 4.5
+Que 4.13
+Que 4.24
+Que 5.3
+Que 5.13
+Que 5.15
+Que 5.16
+
+
+
+--------------------------------------------------------
+--------------------- Analog Ckts ----------------------
+--------------------------------------------------------
+
+Que 1.4
+Que 1.17
+Que 1.19
+Que 1.25
+Que 1.27
+Que 2.9
+Que 2.15 - Just analise phase shift of 180 and effect of cap -- GOOD QUE ESE 
+Que 2.25
+Que 2.29
+Que 2.30
+Que 2.33
+Que 2.34
+Que 2.35
+Que 2.43
+Que 2.59
+Que 2.62
+Que 2.66
+Que 3.14
+Que 3.15
+Que 4.15
+Que 4.17
+Que 4.23
+Que 4.26 - No resistence matters while calculating high cut off freq
+Que 4.32
+Que 4.41
+Que 4.42
+Que 4.43
+Que 4.50
+Que 5.6
+Que 5.10
+Que 5.11
+Que 5.12
+Que 5.14
+Que 6.2
+Que 6.7
+Que 6.13
+Que 7.5
+Que 7.29
+Que 7.32
+Que 7.36 
+Que 7.37 
+Que 7.42
+Que 7.46
+Que 7.47
+Que 7.49
+Que 7.52
+Que 9.12
+Que 9.18
+
+--------------------------------------------------------
+--------------------- Measurement ----------------------
+--------------------------------------------------------
+Que 1.4
+Que 1.11
+Que 1.14
+Que 1.15
+Que 1.21
+Que 1.22
+-- chapter 2 consist of much question just to M/M it 
+Que 2.7
+Que 2.9
+Que 2.10
+Que 2.13
+Que 2.16
+Que 2.19
+Que 2.21
+Que 2.23
+Que 2.27
+Que 3.8
+Que 3.9
+Que 3.18
+Que 3.20
+Que 3.23
+Que 3.27
+Que 3.34
+Que 4.4 - Good Question for Wattmeter
+Que 4.6 to Que 4.9 
+Que 5.6 
+Que 5.8
+Que 5.14 
+Que 5.21
+Que 5.22
+Que 5.25 - Diff b/w circle and straight line
+Que 6.21
+Que 6.20
+Que 6.29
+Que 6.34
+Que 6.63
+Que 6.77
+Que 6.78
+Que 6.81
+Que 6.84
+Que 6.85
+Que 6.93
+Que 7.2
+Que 7.28
+Que 7.30
+Que 8.2
+Que 8.5
+Que 8.11
+Que 8.12
+Que 8.20
+Que 8.23
+Que 8.24
+
+--------------------------------------------------------
+--------------------- Digital Ckts ---------------------
+--------------------------------------------------------
+
+Que 3.10 | 12 
+Que 3.14
+Que 3.23
+Que 3.30 
+Que 4.10
+Que 4.17
+Que 5.2
+Que 5.18 - Good Ques for Seq detector / FF / No. of states question 
+Que 5.20
+Que 5.37
+Que 5.43
+Que 5.45
+Que 5.50 
+Que 5.55 
+Que 5.60 
+Que 6.5
+Que 6.7
+Que 6.11
+Que 6.16
+Que 6.26
+Que 6.32
+Que 6.34
+Que 6.35
+Que 6.39
+--- Go through TTL logic -- all the details of totel poles and logics
+Que 7.7
+Que 7.9
+Que 8.7
+Que 8.8
+Que 8.14
+Que 8.26
+Que 8.30
+Que 8.33
+
+
+
+--------------------------------------------------------
+--------------------- Computer Engg --------------------
+--------------------------------------------------------
+
+
+-- 8085/ 8086 remains 
+Que 1.9
+Que 1.16
+Que 1.17
+Que 1.19
+Que 1.22
+Que 1.26
+Que 1.32
+Que 1.44 - Vimp 
+Que 1.47
+Que 1.51
+Que 1.52
+Que 1.53
+Que 3.12
+Que 3.13
+Que 3.16
+Que 3.18
+Que 3.25
+Que 3.27
+Que 4.8
+Que 4.19 
+Que 4.15
+Que 4.22
+-- go thourgh C book for array of integer, pointer and array concept
+Que 4.28
+Que 4.29 
+Que 4.30 
+Que 4.32
+Que 4.35 - ESE many times
+Que 4.42
+Que 4.50 
+Que 4.51
+Que 5.6
+Que 5.11
+Que 5.14
+Que 5.18
+Que 5.21
+- Diff b/w RISC, CISC and MIPS 
+Que 5.32
+Que 6.3 
+Que 6.5
+Que 6.7
+Que 6.13
+Que 6.15
+Que 7.3
+Que 7.5
+Que 7.9
+Que 7.12
+Que 7.19 
+Que 7.28
+Que 7.31 - you may interprete wrong 4 data lines means 4bit not 2^4 bit (unlike address)
+Que 7.35
+Que 7.38 
+Que 7.43
+Que 7.47
+Que 7.48
+--- last 3-4 questions are good 
+
+
+--------------------------------------------------------
+--------------------- Communication --------------------
+--------------------------------------------------------
+
+Que 1.3
+Que 1.6
+Que 1.8
+Que 1.14
+Que 1.26 
+Que 1.27
+Que 1.30
+Que 1.35
+Que 1.39
+Que 1.41
+Que 1.44
+Que 1.49
+Que 1.57
+Que 1.63 
+Que 1.70
+Que 1.72 -- modulation index = Am / Ac
+Que 2.8 
+Que 2.9
+Que 2.12 
+Que 2.19
+Que 3.3
+Que 3.7
+Que 3.18
+Que 3.9
+Que 3.19
+Que 3.39 
+Que 3.50
+Que 3.61
+Que 4.3
+Que 4.4 - IMP 
+Que 4.7 
+Que 4.16 - the merit of coding is to increase the information rate; not to reduce noise in signal
+Que 4.22
+Que 4.25 - both extremely unlike and extremely like msg has - ZERO information 
+Que 4.28 
+Que 5.7
+Que 5.13
+Que 5.17
+Que 5.21
+Que 5.26
+Que 5.27
+Que 5.33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
