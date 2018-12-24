@@ -195,6 +195,13 @@ Que 5.3
 Que 5.13
 Que 5.15
 Que 5.16
+Que 5.33
+Que 5.34
+Que 5.47
+Que 5.49 
+Que 5.57
+Que 5.62
+
 
 
 
