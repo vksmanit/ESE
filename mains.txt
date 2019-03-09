@@ -1,0 +1,159 @@
+ESE MAINS PREPERATION 
+
+=========================================================================================
+| PAPER 01 | PAPER 01 | PAPER 01 | PAPER 01 | PAPER 01 | PAPER 01 | PAPER 01 | PAPER 01 |
+=========================================================================================
+
+-----------------------------------------------------------------------------------------
+1. BASIC ELECTRONICS ENGINEERING 
+	# Basics of Semiconductor 
+		- Diode/Transistor basics and characteristics
+	# Diodes for Different use
+	# BJT, JFETs, MOSFETs
+	# Transistor amplifier (CE,CB,CC), Oscillators, Other Ckts
+	# Basics of ICs - CMOS, BJT ICs
+	# Basics of Linear ICs - OpAmp application, Linear/Non-Linear
+	# Optical sources/detector 
+	# Baiscs of OptoElectronics and its application
+-----------------------------------------------------------------------------------------
+2. BASIC ELECTRICAL ENGINEERING
+	# DC Cirtuits 
+		-  Ohm's Law, KCL, KVL
+		- Mesh and Nodal Analysis
+		- Circuit Theorem
+	# Electromagnetism
+		- Faraday's and Lenz's Law
+		- Induced EMF and Its uses 
+	# Single Phase AC Ckts
+		- Transformer, Efficiency
+	# Basic DC Machine, Induction Machine and Synchronous Machine
+	# Electrical Power Sources 
+		- Basics, Hydroelectric, thermal, nuclear, wind
+	# Basics of Batteries and their uses
+-----------------------------------------------------------------------------------------
+3. Material Science 
+	# Electrical Engineering Materials
+	# Crystal Structure & Defects 
+	# Ceramecis Material-structures, Composites 
+		- processing and uses
+	# Insulating Lamination for electronics, sturcture property and uses
+	# Magnetic Materials
+		- Basics 
+		- Classification 
+		- Ferrites
+		- Ferro/Para- magnetic material
+		- Component
+	# NanoMaterial Basics
+		-  Basics
+		- Preperation 
+		- Purificaiton 
+		- Sintering
+		- Nano particles and uses
+		- Nano Optic/Magnetic/electronics materials and uses
+-----------------------------------------------------------------------------------------
+4. Electronics Measurement and Instruments
+	# Principal of Measurement
+		- accuracy 
+		- precision 
+		- standards
+	# Analog and Digital System of Measurement 
+		- Measuring instrument for diff application 
+	# Static/Dynamic characteristics of measurement systems, 
+		- error 
+		- statical analysis 
+		- curve fitting
+	# Measurement system for non electrical quantities
+	# Basics of Telementry 
+	# Different types of Transducer and Displays 
+	# Data acquisition system basics
+-----------------------------------------------------------------------------------------
+5. Network Theory 
+	# Network Graphs and Metrics
+	# Wye-Delta Transform
+	# Differential Equations
+		- RCL ckt analysis time domain
+	 	- Frequency analysis (Laplase transform)
+	# 2 Port Parameter
+	# State Equation analysis
+	# Steady state solution analysis
+-----------------------------------------------------------------------------------------
+6. Analog and Digital circuits
+	# Small signal analysis 
+		- Diodes, BJTs, FETs
+	# Diode circuits for different uses
+	# Bising and stability of BJT and FET amplifier circuits
+	# Analysis and Desing of Amplifier
+		- sinle and multistage
+	# Feedback and its uses
+	# Active filter, timeer, A/D Coverter, Mutliplier, wave Shaping
+	# Boolean Algebra and uses
+	# Logic Gates and IC Families
+	# Combinatorial and Sequential circuits
+	# Baiscs of Multiplexer
+	# Counter/Register/Memories/Micropocessers - Design and Application 
+-----------------------------------------------------------------------------------------
+=========================================================================================
+| PAPER 02 | PAPER 02 | PAPER 02 | PAPER 02 | PAPER 02 | PAPER 02 | PAPER 02 | PAPER 02 |
+=========================================================================================
+
+-----------------------------------------------------------------------------------------
+1. Analog and Digital Communicaiton Systems
+	# Random Signals
+		- Noise
+		- Probability theory 
+		- information theory
+	# Analog v/s Digital Communicaiton and Application
+	# AM and FM Transmitter
+		- Transmiting and Reciveing 
+		- theory/Practical/Std 
+		- SNR Comparision 
+	# Digital Communicaiton basics
+		- Sampling, Quntizing, Coding
+		- PCM, DPCM
+		- Muliplexing Audio and Video
+		- Digital Modulation - ASK/FSK/PSK
+		- Muliple Access - TDMA/FDMA/CDMA
+	# Optical Communicaiton
+		- fiber optics
+		- theory and practical/standards
+-----------------------------------------------------------------------------------------
+2. Control System
+	# Classification of signal and System (Signals & System)
+	# System realization 
+	# Transformer and their application 
+	# Signal Flow Graph
+	# Routh-Hurwitz criteria
+	# Root Loci
+	# Nyquist and Bode Plot 
+	# Feedback system (open and close loop)
+		- Stability analysis 
+		- transient and steady state analysis 
+		- FRA
+	# Desing of Control Systems
+		- Compensator design
+		- element of lead/lag compensator
+		- PID and Industrial Controller
+-----------------------------------------------------------------------------------------
+3. Computer Organization and Architecture
+	# Basic Architecture
+		- CPU, IO organization
+		- Memory organization
+		- Peripheal Devices
+	# Hardware and Software issues
+	# Data Representation and Programming
+	# Operating System
+		- basics
+		- process
+		- characteristics
+		- applicaitons 
+	# Memory Management 
+		- virtual memory 
+		- file systems, protection 
+-----------------------------------------------------------------------------------------
+4. Electromagnetics
+-----------------------------------------------------------------------------------------
+5. Advance Electronics Topics
+-----------------------------------------------------------------------------------------
+6. Advance Communication Topics
+-----------------------------------------------------------------------------------------
+
